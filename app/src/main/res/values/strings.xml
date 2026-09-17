@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Current Detector</string>
+    <string name="app_title">Current Detector ⚡</string>
+    <string name="tagline">Wi-Fi ভিত্তিক কারেন্ট পরিমাপক</string>
+    <string name="check_current_button">CHECK CURRENT ⚡</string>
+    <string name="scan_again_button">SCAN AGAIN ⚡</string>
+    <string name="scanning_status">স্ক্যান চলছে... চারপাশের Wi-Fi খোঁজা হচ্ছে 📡</string>
+    <string name="disclaimer">⚠️ This app estimates power availability using nearby Wi-Fi signals. It cannot directly detect electrical current and may give incorrect results.</string>
+</resources>

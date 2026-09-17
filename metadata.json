@@ -1,0 +1,6 @@
+{
+  "name": "Current Detector",
+  "description": "Estimates nearby electricity availability using real Android Wi-Fi network scanning with funny Bangladeshi commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
